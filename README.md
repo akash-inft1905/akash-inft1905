@@ -58,9 +58,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akash-inft1905/count.svg?"  />
-</div>
+
 
 ###
 
